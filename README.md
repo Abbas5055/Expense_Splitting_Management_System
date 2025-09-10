@@ -26,6 +26,6 @@ Quick start:
    python backend/app.py
    ```
 5. Open in browser:
-   - http://localhost:5000
+   - https://expense-splitting-management-system-1.onrender.com/
 
 Features: create groups & members, add expenses (equal or custom shares), view balances.
