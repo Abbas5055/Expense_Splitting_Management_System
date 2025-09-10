@@ -1,0 +1,10 @@
+body{font-family:Arial,Helvetica,sans-serif;background:#f6f8fa;color:#111;margin:0;padding:24px}
+.app{max-width:900px;margin:0 auto;background:#fff;padding:18px;border-radius:10px;box-shadow:0 8px 30px rgba(0,0,0,0.08)}
+header h1{margin:0;font-size:20px}
+.create-group{display:flex;gap:8px;margin-top:12px}
+input,select,button{padding:8px;border-radius:6px;border:1px solid #ddd}
+.group{border-top:1px solid #eee;padding:12px 0;margin-top:12px}
+.members, .expenses, .balances{margin-top:8px}
+.expenses .item, .members .item{padding:6px;border-radius:6px;border:1px solid #eee;margin-bottom:6px}
+button{cursor:pointer;background:#2563eb;color:#fff;border:none}
+.small{padding:6px;font-size:13px}
