@@ -6,12 +6,7 @@ Quick start:
      ```
      python -m venv venv
      .\venv\Scripts\activate
-     ```
-     - macOS / Linux:
-     ```
-     python -m venv venv
-     source venv/bin/activate
-     ```
+
 2. Install dependencies:
    ```
    pip install -r backend/requirements.txt
